@@ -43,7 +43,7 @@ The following toolchains is required to run the projects as:
 * SDCC 
 
 To install SDCC, you can download the installer from the [source forge](https://dotnet.microsoft.com/download](https://sourceforge.net/projects/sdcc/files/sdcc-win64/)).
-to find more infomation and user manual, you can look at [sdcc document](https://sdcc.sourceforge.net/)
+To find more infomation and user manual, you can look at [sdcc document](https://sdcc.sourceforge.net/)
 
 ## Future Plans
 
